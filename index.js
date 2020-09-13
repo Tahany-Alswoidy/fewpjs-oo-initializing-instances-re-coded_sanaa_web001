@@ -1,7 +1,7 @@
 // Write your code here
 class Breakfast{
-  Breakfast("eggs","juice"){
-    this.food=food;
+  Breakfast(){
+    this.food="eggs";
     this.drink=drink;
   }
 }
