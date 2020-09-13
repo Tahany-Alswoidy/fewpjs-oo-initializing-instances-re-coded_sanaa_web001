@@ -14,6 +14,7 @@ class Breakfast{
 class Lunch{
   Lunch(salad,soup,drink){
     this.salad=salad;
+    this.soup=soup;
     this.drink=drink;
   }
 }
