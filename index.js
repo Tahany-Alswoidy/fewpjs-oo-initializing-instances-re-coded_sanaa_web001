@@ -20,3 +20,4 @@ class Lunch{
   }
 }
 const breakfast = new Breakfast('eggs', 'juice');
+let newlunch = new Lunch('side salad', 'broccoli cheddar soup', 'iced tea');
