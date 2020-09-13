@@ -17,10 +17,10 @@ class Lunch{
     this.soup=soup;
     this.drink=drink;
   }
-  class Lunch{
-  Lunch(salad,soup,drink){
+  class Dinner{
+  Dinner(salad,soup,entree,_dessert){
     this.salad=salad;
     this.soup=soup;
-    this.drink=drink;
+    this.entree=entree;
   }
 }
