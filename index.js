@@ -2,7 +2,7 @@
 class Breakfast{
   Breakfast(){
     this.food="eggs";
-    this.drink=drink;
+    this.drink="juice";
   }
 }
 class Lunch{
