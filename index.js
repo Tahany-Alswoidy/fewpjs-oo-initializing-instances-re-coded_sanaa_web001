@@ -5,3 +5,15 @@ class Breakfast{
     this.drink=drink;
   }
 }
+class Breakfast{
+  Breakfast(food,drink){
+    this.food=food;
+    this.drink=drink;
+  }
+}
+class Breakfast{
+  Breakfast(food,drink){
+    this.food=food;
+    this.drink=drink;
+  }
+}
