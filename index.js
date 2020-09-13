@@ -19,3 +19,4 @@ class Lunch{
     this._dessert=_dessert;
   }
 }
+const bfast = new Breakfast('eggs', 'juice');
